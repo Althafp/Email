@@ -1,7 +1,10 @@
-# EmailEon
-Decentralized Email Marketing Platform
+# MailNex
 
-Used Nillion SDK for encrypting email addresses with access control limited to the company and user.
+- MailNex is a cutting-edge decentralized email marketing platform designed to prioritize user privacy. 
+
+- By integrating the Nillion SDK, it ensures that email addresses are encrypted and accessible only to authorized parties.
+
+- This solution provides companies with a reliable and secure way to manage email campaigns while respecting user data privacy.
 
 ## Requirements
 
